@@ -57,7 +57,9 @@ You are fully responsible for your actions.
 
 💡 Tips
  × Lower ping = better speed
+ 
  × Update configs regularly
+ 
  × Try different protocols
 
 ⭐ Star the repo if it helped you!
