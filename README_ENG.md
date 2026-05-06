@@ -10,11 +10,10 @@ Daily updated VPN configs. Connect in under a minute.
 
 ## ⚠️ Disclaimer
 
-- The author does **NOT promote** any VPN apps listed here  
-- Apps are provided only as examples  
-- Use VPN **legally only**
+The author is not affiliated with or promoting any VPN applications.  
+All tools are provided for educational purposes only.
 
-You are fully responsible for your actions.
+Using a VPN for illegal activities is strictly prohibited.
 
 ---
 
