@@ -24,3 +24,7 @@ Connect in under a minute — just import the link and pick the fastest server.
 👉 [Open README_ENG.md](./README_ENG.md)
 
 ---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
