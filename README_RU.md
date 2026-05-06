@@ -31,9 +31,11 @@
 ## 🔗 Конфиги
 
 **Vless (СПИСОК):**
-`link`
+`https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Vless_list.txt`
+
 **White (СПИСОК):**
-`link`
+`https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt`
+
 ---
 
 ## ⚙️ Протоколы
