@@ -29,7 +29,7 @@ Ready-to-use VPN configs with daily updates and automatic fastest server selecti
 ⚡ Connect in under a minute.
 
 🔗 **Full guide:**  
-👉 [Open] (./README_ENG.md) (./README_ENG.md)
+👉 [Open README_ENG.md](./README_ENG.md)
 
 ---
 
