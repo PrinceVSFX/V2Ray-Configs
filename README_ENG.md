@@ -30,7 +30,7 @@ Using a VPN for illegal activities is strictly prohibited.
 ## 🔗 Configs
 
 **Main (LIST):**
-`https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Vless_list.txt`
+`https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt`
 
 **White (LIST):**
 `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt`
