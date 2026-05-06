@@ -3,12 +3,19 @@
   <a href="#-english">🇬🇧 EN</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/PrinceVSFX/Vless-Configs?style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/PrinceVSFX/Vless-Configs?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/PrinceVSFX/Vless-Configs?style=for-the-badge">
+</p>
+
 ---
 
 ## 🇷🇺 Русский
 
-Готовые VPN-конфигурации с автоматическим обновлением и умной сортировкой по скорости.  
-Подключение занимает меньше минуты — просто импортируйте ссылку и выберите самый быстрый сервер.
+Готовые VPN-конфигурации с ежедневным обновлением и автоматическим подбором самых быстрых серверов.
+
+⚡ Подключение занимает меньше минуты.
 
 🔗 **Полная инструкция:**  
 👉 [Открыть README_RU.md](./README_RU.md)
@@ -17,11 +24,22 @@
 
 ## 🇬🇧 English
 
-Ready-to-use VPN configs with automatic updates and smart speed-based sorting.  
-Connect in under a minute — just import the link and pick the fastest server.
+Ready-to-use VPN configs with daily updates and automatic fastest server selection.
+
+⚡ Connect in under a minute.
 
 🔗 **Full guide:**  
-👉 [Open README_ENG.md](./README_ENG.md)
+👉 [Open] (./README_ENG.md) (./README_ENG.md)
+
+---
+
+## ⭐ Особенности / Features
+
+- 📡 Автообновление конфигов  
+- ⚡ Сортировка по скорости (ping)  
+- 🌍 Поддержка нескольких протоколов  
+- 🔄 Быстрое переключение серверов  
+- 📱 Поддержка всех популярных клиентов  
 
 ---
 
