@@ -29,7 +29,7 @@
 ## 🔗 Конфиги
 
 **Main (СПИСОК):**
-`https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Vless_list.txt`
+`https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt`
 
 **White (СПИСОК):**
 `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt`
