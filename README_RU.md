@@ -84,6 +84,11 @@ jobs:
           git commit -m "auto update" || echo "no changes"
           git push
 
+name: Update configs
+...
+git push
+```
+
 💡 Советы
  × Чем ниже ping — тем быстрее VPN
  × Обновляйте конфиги регулярно
