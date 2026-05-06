@@ -1,4 +1,4 @@
-# Prince VSFX — VPN in 1 Minute 🚀
+# VPN in 1 Minute 🚀
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/PrinceVSFX/Vless-Configs)
 ![GitHub repo size](https://img.shields.io/github/repo-size/PrinceVSFX/Vless-Configs)
