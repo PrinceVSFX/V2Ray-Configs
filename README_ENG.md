@@ -63,3 +63,9 @@ You are fully responsible for your actions.
  × Try different protocols
 
 ⭐ Star the repo if it helped you!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
