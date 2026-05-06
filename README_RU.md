@@ -1,5 +1,6 @@
 # Быстрый VPN за 1 минуту 🚀
 
+![License](https://img.shields.io/github/license/PrinceVSFX/Vless-Configs)
 ![GitHub last commit](https://img.shields.io/github/last-commit/PrinceVSFX/Vless-Configs)
 ![GitHub repo size](https://img.shields.io/github/repo-size/PrinceVSFX/Vless-Configs)
 ![GitHub stars](https://img.shields.io/github/stars/PrinceVSFX/Vless-Configs?style=social)
@@ -63,3 +64,9 @@
  × Пробуйте разные протоколы
 
 ⭐ Поставь звезду, если помогло!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
