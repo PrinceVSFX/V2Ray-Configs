@@ -11,6 +11,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/github/png" width="700">
+</p>
 ## 🇷🇺 Русский
 
 Готовые VPN-конфигурации с ежедневным обновлением и автоматическим подбором самых быстрых серверов.
@@ -29,6 +32,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/github/png" width="700">
+</p>
 ## 🇬🇧 English
 
 Ready-to-use VPN configs with daily updates and automatic fastest server selection.
