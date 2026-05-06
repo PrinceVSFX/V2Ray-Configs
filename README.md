@@ -17,6 +17,13 @@
 
 ⚡ Подключение занимает меньше минуты.
 
+### ⭐ Особенности
+- 📡 Автообновление конфигов  
+- ⚡ Сортировка по скорости (ping)  
+- 🌍 Поддержка нескольких протоколов  
+- 🔄 Быстрое переключение серверов  
+- 📱 Поддержка всех популярных клиентов  
+
 🔗 **Полная инструкция:**  
 👉 [Открыть README_RU.md](./README_RU.md)
 
@@ -28,18 +35,15 @@ Ready-to-use VPN configs with daily updates and automatic fastest server selecti
 
 ⚡ Connect in under a minute.
 
+### ⭐ Features
+- 📡 Auto-updating configs  
+- ⚡ Speed-based sorting (ping)  
+- 🌍 Multiple protocol support  
+- 🔄 Fast server switching  
+- 📱 Works with all popular clients  
+
 🔗 **Full guide:**  
 👉 [Open README_ENG.md](./README_ENG.md)
-
----
-
-## ⭐ Особенности / Features
-
-- 📡 Автообновление конфигов  
-- ⚡ Сортировка по скорости (ping)  
-- 🌍 Поддержка нескольких протоколов  
-- 🔄 Быстрое переключение серверов  
-- 📱 Поддержка всех популярных клиентов  
 
 ---
 
