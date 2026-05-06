@@ -55,41 +55,6 @@ You are fully responsible for your actions.
 
 ---
 
-## 📊 Auto Update (GitHub Actions)
-
-Create `.github/workflows/update.yml`:
-
-```yaml
-name: Update configs
-
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
-jobs:
-  update:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Fetch configs
-        run: |
-          curl -o Vless_list.txt https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "bot"
-          git config --global user.email "bot@example.com"
-          git add .
-          git commit -m "auto update" || echo "no changes"
-          git push
-
-name: Update configs
-...
-git push
-```
 💡 Tips
  × Lower ping = better speed
  × Update configs regularly
