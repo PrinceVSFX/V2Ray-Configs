@@ -1,5 +1,5 @@
 # VPN in 1 Minute 🚀
-
+![License](https://img.shields.io/github/license/PrinceVSFX/Vless-Configs)
 ![GitHub last commit](https://img.shields.io/github/last-commit/PrinceVSFX/Vless-Configs)
 ![GitHub repo size](https://img.shields.io/github/repo-size/PrinceVSFX/Vless-Configs)
 ![GitHub stars](https://img.shields.io/github/stars/PrinceVSFX/Vless-Configs?style=social)
