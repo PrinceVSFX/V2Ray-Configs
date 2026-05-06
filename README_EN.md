@@ -33,7 +33,8 @@ You are fully responsible for your actions.
 **Vless (LIST):**
 `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Vless_list.txt`
 **White (LIST):**
-`link`
+`https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt`
+
 ---
 
 ## ⚙️ Protocols
