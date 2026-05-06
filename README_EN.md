@@ -30,7 +30,7 @@ You are fully responsible for your actions.
 
 ## 🔗 Configs
 
-**Main (VLESS):**
+**Vless (LIST):**
 `link`
 **White (LIST):**
 `link`
