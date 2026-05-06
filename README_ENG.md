@@ -55,6 +55,7 @@ Using a VPN for illegal activities is strictly prohibited.
 ---
 
 💡 Tips
+
  × Lower ping = better speed
  
  × Update configs regularly
